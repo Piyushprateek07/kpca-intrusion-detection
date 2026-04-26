@@ -1,0 +1,4 @@
+Split,Best_Model,Kernel,Accuracy,F1,ROC_AUC,MCC,Cost,DSI
+0.2,XGBoost,poly,100.00,1.0000,1.0000,1.0000,30,0.99
+0.4,XGBoost,poly,100.00,1.0000,1.0000,1.0000,50,0.82
+0.6,RandomForest,poly,99.99,0.9999,0.9999,0.9999,80,0.94
