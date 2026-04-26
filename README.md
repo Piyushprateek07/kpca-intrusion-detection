@@ -79,13 +79,10 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 
 Due to their large size, the datasets are not included in this repository. Download them from:
 
----
 
 🔹 CICIDS Dataset
 	•	Source: Canadian Institute for Cybersecurity
 	•	Link: https://www.unb.ca/cic/datasets/ids-2017.html
-
----
 
 🔹 UNSW-NB15 Dataset
 	•	Source: University of New South Wales
