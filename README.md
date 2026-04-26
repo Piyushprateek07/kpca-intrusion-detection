@@ -27,7 +27,6 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 	•	Removing low-variance features
 	•	Feature scaling using StandardScaler
 
-⸻
 
 2. Dimensionality Reduction
 	•	Kernel Principal Component Analysis (KPCA)
@@ -40,7 +39,6 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 	•	Captures nonlinear relationships in data
 	•	Reduces computational complexity
 
----
 
 3. Machine Learning Models
 	•	Decision Tree
@@ -51,7 +49,6 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 	•	K-Nearest Neighbors
 	•	XGBoost
 
----
 
 4. Cost-Sensitive Thresholding
 	•	Assigns higher penalty to False Negatives
@@ -60,13 +57,12 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 	•	Cost function
 	•	Improves real-world detection reliability
 
----
 
 5. Clustering-Based Analysis
 	•	KMeans clustering
 	•	Evaluates predictions across clusters
 	•	Enables stability analysis
----
+
 
 6. Evaluation Metrics
 	•	Accuracy
