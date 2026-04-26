@@ -1,8 +1,8 @@
-##KPCA-Based Intrusion Detection System (IDS)
+## KPCA-Based Intrusion Detection System (IDS)
 
 ---
 
-##📌 Overview
+## 📌 Overview
 
 This project presents a machine learning-based Intrusion Detection System (IDS) that uses Kernel Principal Component Analysis (KPCA) for nonlinear dimensionality reduction combined with multiple classification algorithms. The system focuses not only on detection accuracy but also on cost-sensitive decision making and prediction stability.
 
@@ -10,7 +10,7 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 
 ---
 
-##🎯 Objectives
+## 🎯 Objectives
 	•	Improve intrusion detection performance using KPCA
 	•	Capture nonlinear patterns in network traffic data
 	•	Reduce feature dimensionality while preserving important information
@@ -20,7 +20,7 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 
 ---
 
-##🧠 Methodology
+## 🧠 Methodology
 
 1. Data Preprocessing
 	•	Handling missing values
@@ -79,7 +79,7 @@ The proposed framework is evaluated on benchmark datasets (CICIDS and UNSW) and 
 
 ---
 
-##📊 Datasets
+## 📊 Datasets
 
 Due to their large size, the datasets are not included in this repository. Download them from:
 
@@ -97,7 +97,7 @@ Due to their large size, the datasets are not included in this repository. Downl
 
 ⸻
 
-##📁 Folder Structure
+## 📁 Folder Structure
 
 datasets/
 ├── CICIDS_MASTER.csv
@@ -117,7 +117,7 @@ Ensure file paths match your local setup.
 
 ---
 
-##🧪 Experimental Setup
+## 🧪 Experimental Setup
 	•	Train-test splits: 0.2, 0.4, 0.6
 	•	KPCA components: 30
 	•	Multiple kernels evaluated
@@ -126,7 +126,7 @@ Ensure file paths match your local setup.
 
 ---
 
-##🔍 Key Findings
+## 🔍 Key Findings
 	•	KPCA improves detection by capturing nonlinear structures
 	•	Accuracy alone is insufficient for IDS evaluation
 	•	MCC and cost provide better performance insight
@@ -135,7 +135,7 @@ Ensure file paths match your local setup.
 
 ---
 
-##📌 Contribution
+## 📌 Contribution
 	•	KPCA-based IDS framework for nonlinear feature extraction
 	•	Cost-sensitive decision mechanism for realistic deployment
 	•	Decision Stability Index (DSI) for robustness evaluation
@@ -143,13 +143,13 @@ Ensure file paths match your local setup.
 
 ---
 
-📄 Paper
+## 📄 Paper
 
 This repository is associated with a research paper on KPCA-based intrusion detection with cost-sensitive learning and stability analysis.
 
 ---
 
-##⚙️ Requirements
+## ⚙️ Requirements
 	•	Python 3.x
 	•	Scikit-learn
 	•	NumPy
@@ -158,7 +158,7 @@ This repository is associated with a research paper on KPCA-based intrusion dete
 
 ---
 
-##🚀 Future Work
+## 🚀 Future Work
 	•	Real-time intrusion detection system
 	•	Deep learning integration (CNN, LSTM)
 	•	Adaptive threshold optimization
@@ -166,14 +166,14 @@ This repository is associated with a research paper on KPCA-based intrusion dete
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Piyush Prateek
 MTech Computer Science Engineering
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License
 
