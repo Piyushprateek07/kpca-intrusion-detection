@@ -102,7 +102,7 @@ Ensure file paths match your local setup.
 
 ---
 
-📈 Key Results
+## 📈 Key Results
 	•	KPCA effectively captured nonlinear patterns in data
 	•	XGBoost and Random Forest achieved top performance
 	•	High detection accuracy (~99% on CICIDS)
